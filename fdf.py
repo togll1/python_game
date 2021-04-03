@@ -1,0 +1,3 @@
+from byme import *
+
+byme()
